@@ -1,0 +1,14 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+android/.cxx/
+android/ndk/
+ios/Pods/
+ios/.symlinks/
+*.iml
+
+# IDEs
+.idea/
+.vscode/
